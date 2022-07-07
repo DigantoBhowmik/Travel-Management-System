@@ -1,0 +1,6 @@
+[submodule "Travel-Management-System-Backend"]
+	path = Travel-Management-System-Backend
+	url = https://github.com/DigantoBhowmik/Travel-Management-System-Backend.git
+[submodule "Travel-Management-System-Frontend"]
+	path = Travel-Management-System-Frontend
+	url = https://github.com/DigantoBhowmik/Travel-Management-System-Frontend.git
