@@ -5,17 +5,17 @@
 Type of users
 
 - [x] 1. Admin
-      - Admin can create admins
-      - Admin can delete and edit customers and agents
-      - Admin can delete and edit packages and events
+   - Admin can create admins
+   - Admin can delete and edit customers and agents
+   - Admin can delete and edit packages and events
    
 - [x] 2. Agent
-      - Agent can create, edit and delete packages and events
-      - Agent can see which user bought their which packages and events
+   - Agent can create, edit and delete packages and events
+   - Agent can see which user bought their which packages and events
    
 - [x] 3. Customer
-      - Customer can buy packages and events
-      - Customer can see which packages and events bought from which agent
+   - Customer can buy packages and events
+   - Customer can see which packages and events bought from which agent
 
 
 ### Domain
